@@ -1,5 +1,5 @@
 build:
   id: 12312314
   version: 1.2.2
-  name: "Dev GIT Build"
-  type: "Dev GIT TYPE"
+  name: "Default GIT Build"
+  type: "GIT TYPE DEFUALT"
